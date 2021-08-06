@@ -1,0 +1,24 @@
+CMPO yes
+CLSD yes
+CITC yes
+CCD (not priority)
+GPMTC yes
+PMO (project management office)(Thian and Reefar)
+AcMD   <----------- to invite
+CQA yes
+CHSE   <----------- to invite
+ICTD yes
+G-Finance   <----------- to invite
+CIL (not priority)
+CACS   <------------ to invite
+Mesra yes (Dr Ida) 
+UIO yes
+ACE (to be confirmed) <----------- to invite, Dr Yuhanees?
+IPS yes
+CORI yes
+Library yes
+IAMD yes
+We4Asia yes (thian)
+CLD yes
+CSD yes
+
